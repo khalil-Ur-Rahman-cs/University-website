@@ -72,7 +72,7 @@ export const Hero = () => {
                 loop
                 playsInline
                 preload="auto"
-                poster="/class-picture.jpg"
+                // poster="/class-picture.jpg"
                 className="h-full w-full object-cover"
                 aria-label="University of Swat student video"
               >
